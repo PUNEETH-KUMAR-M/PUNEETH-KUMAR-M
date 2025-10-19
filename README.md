@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneeth-kumar-m&label=Profile%20views&color=0e75b6&style=flat" alt="puneeth-kumar-m" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puneeth-kumar-m" alt="puneeth-kumar-m" /></a> </p>
-
 - 🔭 I’m currently working on [Flow-Pilot](https://github.com/PUNEETH-KUMAR-M/auto-welcome-agent.git)
 
 - 🌱 I’m currently learning **SpringBoot,Microservice**
