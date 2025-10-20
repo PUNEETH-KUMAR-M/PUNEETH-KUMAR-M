@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [auto-welcome-agent](https://github.com/PUNEETH-KUMAR-M/auto-welcome-agent.git)
 
-- 🌱 I’m currently learning **SpringBoot,Microservice**
+- 🌱 I’m currently learning **Microservice, CI-CD**
 
 - 📫 How to reach me **kpuneeth664@gmail.com**
 
