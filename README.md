@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneeth-kumar-m&label=Profile%20views&color=0e75b6&style=flat" alt="puneeth-kumar-m" /> </p>
 
-- 🔭 I’m currently working on [Flow-Pilot](https://github.com/PUNEETH-KUMAR-M/auto-welcome-agent.git)
+- 🔭 I’m currently working on [auto-welcome-agent](https://github.com/PUNEETH-KUMAR-M/auto-welcome-agent.git)
 
 - 🌱 I’m currently learning **SpringBoot,Microservice**
 
