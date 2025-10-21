@@ -1,74 +1,26 @@
 <h1 align="center">Hi 👋, I'm Puneeth Kumar M</h1>
 <h3 align="center">| Backend & Cloud Enthusiast 🚀 | Spring Boot • REST APIs • AWS • CI/CD • Docker • Java • Python |</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=puneeth-kumar-m&label=Profile%20views&color=0e75b6&style=flat" alt="puneeth-kumar-m" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=puneeth-kumar-m&label=Profile%20views&color=0e75b6&style=flat" alt="puneeth-kumar-m" /> </p>
 
 - 🔭 I’m currently working on [auto-welcome-agent](https://github.com/PUNEETH-KUMAR-M/auto-welcome-agent.git)
 
-- 🌱 I’m currently learning **Microservice, CI-CD**
+- 🌱 I’m currently learning *Microservice, CI-CD*
 
-- 📫 How to reach me **kpuneeth664@gmail.com**
+- 📫 How to reach me *kpuneeth664@gmail.com*
 
-- 📄 Know about my experiences [Google Drive Resume](https://drive.google.com/file/d/16Ld8ySk6sP-Q353Dp39_h2qFKxeJK4Q2/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16Ld8ySk6sP-Q353Dp39_h2qFKxeJK4Q2/view?usp=drivesdk](https://drive.google.com/file/d/16Ld8ySk6sP-Q353Dp39_h2qFKxeJK4Q2/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/puneeth-kumar-m-538b212a2" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/puneeth kumar m" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/puneeth-kumar-m-538b212a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/puneeth-kumar-m-538b212a2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/puneeth kumar m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="puneeth kumar m" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-</p>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<!-- 🔥 Custom Highlight for Java & Python -->
-<h3 align="left">Top Languages (Highlighted)</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Primary-blue?logo=java&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-Primary-yellow?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SpringBoot-Expert-green?logo=springboot&logoColor=white&style=for-the-badge"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneeth-kumar-m&layout=compact&langs_count=8&hide=javascript,html,css,json,yaml&theme=react" alt="puneeth-kumar-m" /></p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneeth-kumar-m&layout=compact&langs_count=8&hide=c,cpp,cython,javascript,html,css,json,yaml,fortran,ejs&theme=react" alt="puneeth-kumar-m" />
-</p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneeth-kumar-m&show_icons=true&locale=en&theme=react" alt="puneeth-kumar-m" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneeth-kumar-m&show_icons=true&locale=en" alt="puneeth-kumar-m" /></p>
