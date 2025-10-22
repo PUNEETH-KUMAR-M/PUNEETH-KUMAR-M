@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneeth-kumar-m&label=Profile%20views&color=0e75b6&style=flat" alt="puneeth-kumar-m" /> </p>
 
-- 🔭 I’m currently working on [AutoAccess – Employee System Access Provisioner](https://github.com/PUNEETH-KUMAR-M/AutoAccess – Employee System Access Provisioner.git)
+- 🔭  I’m currently working on [AutoAccess – Employee System Access Provisioner](https://github.com/PUNEETH-KUMAR-M/AutoAccess)
 
 - 🌱 I’m currently learning *Microservice, CI-CD*
 
